@@ -33,7 +33,7 @@ export default function Form() {
 
   return (
     <div className="mx-8 sm:rounded-lg">
-      <div className="py-5 sm:p-6">
+      <div className="py-5 sm:p-6 border-t border-gray-200 mx-8 text-center">
         <h3 className="text-lg font-medium leading-6 text-white">
           Custom Lead Lists
         </h3>

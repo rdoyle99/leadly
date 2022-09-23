@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="bg-bluish text-white">
       <Header />
-      <Knowledge />
+
       <Leads />
       <Form />
       <Footer />
